@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nurdaulet 👋</h1>
+<h3 align="center">Robotics Engineer · Co-founder @ Derbes Tech · Astana, Kazakhstan</h3>
 
-<!--
-**nurdauletzhuzbay/nurdauletzhuzbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Secondary development for humanoid & quadruped robots — Unitree G1/Go2, Agibot A2/X2 —
+  <br />
+  bridging classical robotics, sim-to-real RL, and physical AI.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core stack
+
+`ROS2` · `SLAM` · `LeRobot` · `Reinforcement Learning` · `Sim-to-Real` · `Tactile Sensing` · `VLAs` · `Isaac Sim / Isaac Lab` · `MuJoCo`
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nurdauletzhuzbay&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdauletzhuzbay&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurdauletzhuzbay&theme=default&hide_border=true" />
+</p>
+
+### 📫 Reach me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nurdauletzhuzbay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>

@@ -12,14 +12,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 </p>
 
 ---
 
 ### 🛠️ Core stack
 
-`ROS2` · `SLAM` · `LeRobot` · `Reinforcement Learning` · `Sim-to-Real` · `Tactile Sensing` · `VLAs` · `Isaac Sim / Isaac Lab` · `MuJoCo`
+`ROS2` · `Reinforcement Learning` · `Sim-to-Real` · `Tactile Sensing` · `VLAs` · `Isaac Sim / Isaac Lab` · `MuJoCo`
 
 ### 📊 GitHub stats
 

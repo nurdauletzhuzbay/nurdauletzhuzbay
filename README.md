@@ -20,17 +20,7 @@
 
 `ROS2` · `Reinforcement Learning` · `Sim-to-Real` · `Tactile Sensing` · `VLAs` · `Isaac Sim / Isaac Lab` · `MuJoCo`
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nurdauletzhuzbay&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdauletzhuzbay&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurdauletzhuzbay&theme=default&hide_border=true" />
-</p>
-
+<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=nurdauletzhuzbay&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nurdauletzhuzbay&layout=compact&theme=default&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=nurdauletzhuzbay&theme=default&hide_border=true" /> </p>
 ### 📫 Reach me
 
 <p align="center">

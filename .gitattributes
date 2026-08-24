@@ -1,4 +1,0 @@
-# Exclude Jupyter notebooks from GitHub's language stats.
-# .ipynb files inflate byte-based language detection with embedded
-# outputs, images, and metadata that aren't actual code.
-*.ipynb linguist-generated=true
